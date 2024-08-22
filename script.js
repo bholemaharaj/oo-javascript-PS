@@ -14,6 +14,7 @@ let sam = salil;
 sam.firstName = 'Samuel';
 display(salil.fullName());
 display(sam.fullName());
+display(Person.prototype);
 /*
 let Person = {
   firstName: '',
